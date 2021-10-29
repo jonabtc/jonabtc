@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+![Jona Stats](https://github-readme-stats.vercel.app/api?username=jonabtc&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&custom_title=Jona%27s%20Github%20Stats)
+  
+
+
+
+
+</div>
